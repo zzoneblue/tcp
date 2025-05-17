@@ -1,3 +1,3 @@
 # TCP
 
-An evolving suite of collaboration tools intended for small community building initiatives. The code is old school PHP, and includes various bits and pieces to construct a private web portal for co-governing, adult education type groups.
+This is a set of collaboration tools created specifically for The Connection Project. TCP is a community building initiative for the purpose of communications capacity building. The codebase is old school PHP, and open source as per CC4-BY-SA.
